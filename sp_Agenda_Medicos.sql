@@ -1,4 +1,4 @@
--- store procedure: agenda médicos
+-- store procedure: agenda mï¿½dicos
 create procedure Agenda_Medicos
 as
 begin
